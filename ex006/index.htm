@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em Html5</title>
+</head>
+<body>
+    <h1>Imagens Dinâmicas</h1>
+    <p>
+        Tente abrir este site em diferentes dispositivos ou simplismente altere o
+        tamanho do navegador .
+    </p>
+    <picture>
+        <source media="(max-width: 720px)" srcset="Imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1030px)" srcset="Imagens/foto-m.png" type="image/png">
+        <img src="Imagens/foto-g.png" alt="Foto Flexivel">
+    </picture>
+    <h1>Reproduzindo Audio</h1>
+    <audio src="https://raw.githubusercontent.com/gustavoguanabara/html-css/master/exercicios/modulo-01/ex011/midia/happy-mistake.mp3"
+    autoplay controls ></audio>
+    <h1>Reproduzindo Video</h1>
+    <video src="midias/video1.mp4" width="300" controls ></video>
+    <h1>Incorporando videos direto do YouTube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3hng-hmSv2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>

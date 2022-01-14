@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sombras nas Caixas</title>
+    <style>
+        body{
+            background-color: gray;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0px;
+        }
+        header{
+            background-color: white;
+            padding: 5px;
+            margin: 8px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.5);
+        }
+        main{
+            background-color: white;
+            margin: 8px;
+        }
+        nav{
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+        nav#links{
+            background-color: rgb(77, 77, 77);
+            margin-bottom: 5px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.5);
+        }
+        nav > a{
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            margin-right: 29px;
+            margin-left: 2px;
+        }
+        main{
+            padding: 10px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.5);
+        }
+        article{
+            padding: 5px;
+            background-color: lightgray;
+        }
+        aside{
+            background-color: rgb(153, 153, 153);
+            margin-bottom: 30px;
+        }
+        footer{
+            background-color: black;
+            color:white;
+            text-align: center;
+            padding: 2px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav id="links">
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+    </header>
+    <main>
+        <nav>Esportes Politica Tecnologia</nav>
+        <article>
+            <h2>Noticias sobre o Brasil</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit reiciendis,
+            saepe ab dolore earum eum. Sint, debitis laboriosam dignissimos sapiente quo
+            quas est reiciendis dolorem consequuntur error sunt! Pariatur, error?Lorem, 
+            ipsum dolor sit amet consectetur adipisicing elit. Aliquam numquam sed nisi 
+            beatae maiores, culpa qui, repudiandae, nemo voluptatibus quasi provident natus
+            dolorem vitae ea perspiciatis cumque cum. Qui, incidunt?Lorem ipsum, dolor sit 
+            amet consectetur adipisicing elit. Quas nisi accusamus beatae ullam? Magnam 
+            voluptate ratione, sapiente saepe modi, incidunt dolores nobis nulla placeat 
+            natus ipsum explicabo cumque veniam optio?</p>
+            <aside>
+                Artigo escrito por José da Silva
+            </aside>
+        </article>
+    </main>
+    <footer>
+        <p>Desenvolvido por Juan Silva de Araujo</p>
+    </footer>
+</body>
+</html>
