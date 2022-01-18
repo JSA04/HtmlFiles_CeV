@@ -39,5 +39,5 @@ Ir para:
 <a href="https://jsa04.github.io/htmlf/ex011">Exercicio 11 (Projeto Cordel)</a><br>
 <p>Exercicio 12</p>
 <ul>
-    <a href="https://jsa04.github.io/htmlf/ex012/tabelas.html">Tabelas<a>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas.html">Tabelas<a></li>
 </ul>
