@@ -29,11 +29,15 @@ Ir para:
 </ul>
 <p>Exercicio 10</p>
 <ul>
-        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo001.html">Fundo 1</a></p>
-        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo002.html">Fundo 2</a></p>
-        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo003.html">Fundo 3</a></p>
-        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo004.html">Fundo 4</a></p>
-        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo005.html">Fundo 5</a></p>
-        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo006.html">Fundo 6</a></p>
+    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo001.html">Fundo 1</a></p>
+    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo002.html">Fundo 2</a></p>
+    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo003.html">Fundo 3</a></p>
+    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo004.html">Fundo 4</a></p>
+    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo005.html">Fundo 5</a></p>
+    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo006.html">Fundo 6</a></p>
 </ul>
 <a href="https://jsa04.github.io/htmlf/ex011">Exercicio 11 (Projeto Cordel)</a><br>
+<p>Exercicio 12</p>
+<ul>
+    <a href="https://jsa04.github.io/htmlf/ex012/tabelas.html">Tabelas<a>
+</ul>
