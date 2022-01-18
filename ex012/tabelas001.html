@@ -10,35 +10,38 @@
             border: 1px solid black;
             padding: 5px;
             width: 100px;
+            height: 100px;
+            text-align: center;
         }
         table{
             border-collapse: collapse;
         }
-        .linha{
-            background-color: grey;
+        #linha{
+            background-color: lightgrey;
         }
-        #dado{
-            background-color: gold;
+        .numero{
+            text-align: right;/*Alinhamento Horizontal*/
+            vertical-align: top;/*Alinhamento Vertical*/
         }
     </style>
 </head>
 <body>
     <h1>Tabelas</h1>
     <table>
-        <tr>
+        <tr id="linha">
             <td>A1</td>
             <td>A2</td>
             <td>A3</td>
             <td>A4</td>
         </tr>
-        <tr class="linha">
-            <td>B1</td>
+        <tr>
+            <td class="numero">B1</td>
             <td>B2</td>
             <td>B3</td>
             <td>B4</td>
         </tr>
         <tr>
-            <td>C1</td>
+            <td class="numero">C1</td>
             <td>C2</td>
             <td id="dado">C3</td>
             <td>C4</td>
