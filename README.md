@@ -5,7 +5,7 @@ Ir para:
 <a href="https://jsa04.github.io/htmlf/ex001">Exercicio 1</a><br>
 <a href="https://jsa04.github.io/htmlf/ex002">Exercicio 2</a><br>
 <a href="https://jsa04.github.io/htmlf/ex003">Exercicio 3</a><br>
-<a href="https://jsa04.github.io/htmlf/ex004">Exercicio 4</a><br>
+<a href="https://jsa04.github.io/htmlf/ex004">Exercicio 4</a>
 <p>Exercicio 5</p>
 <ul>
     <li><a href="https://jsa04.github.io/htmlf/ex005/pseudo_classes.html">Pseudo Classes</a></li>
@@ -13,7 +13,7 @@ Ir para:
     <li><a href="https://jsa04.github.io/htmlf/ex005/seletores_personalizados.html">Pseudo Classes</a></li>
 </ul>
 <a href="https://jsa04.github.io/htmlf/ex006">Exercicio 6</a><br>
-<a href="https://jsa04.github.io/htmlf/ex007/estilos.html">Exercicio 7</a><br>
+<a href="https://jsa04.github.io/htmlf/ex007/estilos.html">Exercicio 7</a>
 <p>Exercicio 8</p>
 <ul>
     <li><a href="https://jsa04.github.io/htmlf/ex008/cores_em_css.html">Cores em Css</a></li>
@@ -29,15 +29,15 @@ Ir para:
 </ul>
 <p>Exercicio 10</p>
 <ul>
-    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo001.html">Fundo 1</a></p>
-    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo002.html">Fundo 2</a></p>
-    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo003.html">Fundo 3</a></p>
-    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo004.html">Fundo 4</a></p>
-    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo005.html">Fundo 5</a></p>
-    <p><a href="https://jsa04.github.io/htmlf/ex010/fundo006.html">Fundo 6</a></p>
+    <li><a href="https://jsa04.github.io/htmlf/ex010/fundo001.html">Fundo 1</a></li>      
+    <li><a href="https://jsa04.github.io/htmlf/ex010/fundo002.html">Fundo 2</a></li>    
+    <li><a href="https://jsa04.github.io/htmlf/ex010/fundo003.html">Fundo 3</a></li>  
+    <li><a href="https://jsa04.github.io/htmlf/ex010/fundo004.html">Fundo 4</a></li>      
+    <li><a href="https://jsa04.github.io/htmlf/ex010/fundo005.html">Fundo 5</a></li>      
+    <li><a href="https://jsa04.github.io/htmlf/ex010/fundo006.html">Fundo 6</a></li>      
 </ul>
 <a href="https://jsa04.github.io/htmlf/ex011">Exercicio 11 (Projeto Cordel)</a><br>
 <p>Exercicio 12</p>
 <ul>
-    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas.html">Tabelas<a>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas001.html">Tabelas</a></li>
 </ul>
