@@ -16,10 +16,10 @@ Ir para:
 <a href="https://jsa04.github.io/htmlf/ex007/estilos.html">Exercicio 7</a><br>
 <p>Exercicio 8</p>
 <ul>
-    <li><a href="https://jsa04.github.io/htmlf/ex008/cores_em_css.html">Cores em Css</a></li>\
+    <li><a href="https://jsa04.github.io/htmlf/ex008/cores_em_css.html">Cores em Css</a></li>
     <li><a href="https://jsa04.github.io/htmlf/ex008/gradiente_em_css.html">Gradiente em CSS</a></li>
 </ul>
-<p>Exercicio 9</p><br>
+<p>Exercicio 9</p>
 <ul>
     <li><a href="https://jsa04.github.io/htmlf/ex009/borda.html">Borda</a></li>
     <li><a href="https://jsa04.github.io/htmlf/ex009/exemplos_de_caixas.html">Exemplos de Caixas</a></li>
@@ -29,11 +29,11 @@ Ir para:
 </ul>
 <p>Exercicio 10</p>
 <ul>
-        <a href="https://jsa04.github.io/htmlf/ex010/fundo001.html">Fundo 1</a>
-        <a href="https://jsa04.github.io/htmlf/ex010/fundo002.html">Fundo 2</a>
-        <a href="https://jsa04.github.io/htmlf/ex010/fundo003.html">Fundo 3</a>
-        <a href="https://jsa04.github.io/htmlf/ex010/fundo004.html">Fundo 4</a>
-        <a href="https://jsa04.github.io/htmlf/ex010/fundo005.html">Fundo 5</a>
-        <a href="https://jsa04.github.io/htmlf/ex010/fundo006.html">Fundo 6</a>
+        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo001.html">Fundo 1</a></p>
+        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo002.html">Fundo 2</a></p>
+        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo003.html">Fundo 3</a></p>
+        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo004.html">Fundo 4</a></p>
+        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo005.html">Fundo 5</a></p>
+        <p><a href="https://jsa04.github.io/htmlf/ex010/fundo006.html">Fundo 6</a></p>
 </ul>
 <a href="https://jsa04.github.io/htmlf/ex011">Exercicio 11 (Projeto Cordel)</a><br>
