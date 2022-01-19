@@ -39,6 +39,12 @@ Ir para:
 <a href="https://jsa04.github.io/htmlf/ex011">Exercicio 11 (Projeto Cordel)</a><br>
 <p>Exercicio 12</p>
 <ul>
-    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas001.html">Tabelas</a></li>
-    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas002.html">Tabelas</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas001.html">Tabelas 1</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas002.html">Tabelas 2</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas003.html">Tabelas 3</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas004.html">Tabelas 4</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas001.html">Desafio Tabelas 1</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas002.html">Desafio Tabelas 2</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas003.html">Desafio Tabelas 3</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas004.html">Desafio Tabelas 4</a></li>
 </ul>
