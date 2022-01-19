@@ -40,4 +40,5 @@ Ir para:
 <p>Exercicio 12</p>
 <ul>
     <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas001.html">Tabelas</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex012/tabelas002.html">Tabelas</a></li>
 </ul>
