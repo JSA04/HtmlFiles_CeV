@@ -9,15 +9,28 @@
         table{
             border: 2.5px solid black;
             border-collapse: collapse;
+            font-size: 2em;
         }
         thead{
-            background-color: darkgray;
+            background-color: rgb(87, 87, 87);
             color: white;
+            position: relative;
         }
         td{
             border: 1px solid black;
             width: 100px;
             padding: 5px;
+        }
+        thead > tr >th {
+            position: sticky;
+            top: -1px;
+            background-color: rgb(87, 87, 87); 
+        }
+        tbody > tr:nth-child(odd){
+            background-color: rgb(255, 252, 221);
+        }
+        tbody > tr:nth-child(even){
+            background-color: lightgray;
         }
         .pos{
             text-align: center;
@@ -25,15 +38,18 @@
         .num{
             text-align: right;
         }
+        p{
+            font-size: 1.5em;
+        }
     </style>
 </head>
 <body>
-    <table>   
+    <table>
         <thead>
             <tr>
-                <td>Posição</td> 
-                <td>Estado</td>
-                <td>População</td>
+                <th scope="col">Posição</th> 
+                <th scope="col" style="width: 250px;">Estado</th>
+                <th scope="col" style="width: 200px;">População</th>
             </tr>
         </thead>
         <tbody>
@@ -89,5 +105,21 @@
             </tr>
         </tbody>
     </table>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut impedit magnam nisi, asperiores totam veniam vero excepturi. In, iure amet illo quod dolore cum sit architecto provident. Soluta, ipsam maxime. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos accusantium minima impedit, fugit quia non cupiditate itaque id vero? Dignissimos vitae totam ullam non tenetur molestiae similique perspiciatis deserunt. Enim. Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores repellendus quae, enim facere aliquam aut cupiditate pariatur, omnis, soluta consequatur amet. Provident libero dignissimos minus expedita distinctio, temporibus totam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae asperiores placeat autem illo voluptatum sequi impedit rem iure nisi, obcaecati unde architecto iste harum ab dolorum accusantium corrupti cumque quo!
+    </p>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut impedit magnam nisi, asperiores totam veniam vero excepturi. In, iure amet illo quod dolore cum sit architecto provident. Soluta, ipsam maxime. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos accusantium minima impedit, fugit quia non cupiditate itaque id vero? Dignissimos vitae totam ullam non tenetur molestiae similique perspiciatis deserunt. Enim. Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores repellendus quae, enim facere aliquam aut cupiditate pariatur, omnis, soluta consequatur amet. Provident libero dignissimos minus expedita distinctio, temporibus totam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae asperiores placeat autem illo voluptatum sequi impedit rem iure nisi, obcaecati unde architecto iste harum ab dolorum accusantium corrupti cumque quo!
+    </p>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut impedit magnam nisi, asperiores totam veniam vero excepturi. In, iure amet illo quod dolore cum sit architecto provident. Soluta, ipsam maxime. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos accusantium minima impedit, fugit quia non cupiditate itaque id vero? Dignissimos vitae totam ullam non tenetur molestiae similique perspiciatis deserunt. Enim. Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores repellendus quae, enim facere aliquam aut cupiditate pariatur, omnis, soluta consequatur amet. Provident libero dignissimos minus expedita distinctio, temporibus totam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae asperiores placeat autem illo voluptatum sequi impedit rem iure nisi, obcaecati unde architecto iste harum ab dolorum accusantium corrupti cumque quo!
+    </p>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut impedit magnam nisi, asperiores totam veniam vero excepturi. In, iure amet illo quod dolore cum sit architecto provident. Soluta, ipsam maxime. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos accusantium minima impedit, fugit quia non cupiditate itaque id vero? Dignissimos vitae totam ullam non tenetur molestiae similique perspiciatis deserunt. Enim. Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores repellendus quae, enim facere aliquam aut cupiditate pariatur, omnis, soluta consequatur amet. Provident libero dignissimos minus expedita distinctio, temporibus totam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae asperiores placeat autem illo voluptatum sequi impedit rem iure nisi, obcaecati unde architecto iste harum ab dolorum accusantium corrupti cumque quo!
+    </p>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut impedit magnam nisi, asperiores totam veniam vero excepturi. In, iure amet illo quod dolore cum sit architecto provident. Soluta, ipsam maxime. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos accusantium minima impedit, fugit quia non cupiditate itaque id vero? Dignissimos vitae totam ullam non tenetur molestiae similique perspiciatis deserunt. Enim. Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores repellendus quae, enim facere aliquam aut cupiditate pariatur, omnis, soluta consequatur amet. Provident libero dignissimos minus expedita distinctio, temporibus totam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae asperiores placeat autem illo voluptatum sequi impedit rem iure nisi, obcaecati unde architecto iste harum ab dolorum accusantium corrupti cumque quo!
+    </p>
+
 </body>
 </html>
