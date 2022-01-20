@@ -47,6 +47,6 @@ Ir para:
     <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas003.html">Desafio Tabelas 3</a></li>
     <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas004.html">Desafio Tabelas 4</a></li>
 <p>Desafios</p>
-    <li><a href="https://jsa04.github.io/htmlf/des/android-site.html">Projeto Android</a></li>
-    <li><a href="https://jsa04.github.io/htmlf/des/menu-curiosidades.html">Curiosades </a></li>
+    <li><a href="https://jsa04.github.io/htmlf/des/android-site">Projeto Android</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/des/menu-curiosidades">Curiosades </a></li>
 </ul>
