@@ -25,6 +25,7 @@ Ir para:
     <li><a href="https://jsa04.github.io/htmlf/ex009/exemplos_de_caixas.html">Exemplos de Caixas</a></li>
     <li><a href="https://jsa04.github.io/htmlf/ex009/grouping_tags.html">Grouping Tags</a></li>
     <li><a href="https://jsa04.github.io/htmlf/ex009/sombra_nas_caixas.html">Sombra nas Caixas</a></li>
+    <li><a href="https://jsa04.github.io/htmlf/ex009/des/android-site">Projeto Android</a></li>
 </ul>
 <p>Exercicio 10</p>
 <ul>
@@ -46,7 +47,4 @@ Ir para:
     <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas002.html">Desafio Tabelas 2</a></li>
     <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas003.html">Desafio Tabelas 3</a></li>
     <li><a href="https://jsa04.github.io/htmlf/ex012/des/desafio-tabelas004.html">Desafio Tabelas 4</a></li>
-<p>Desafios</p>
-    <li><a href="https://jsa04.github.io/htmlf/des/android-site">Projeto Android</a></li>
-    <li><a href="https://jsa04.github.io/htmlf/des/menu-curiosidades">Curiosades </a></li>
 </ul>
